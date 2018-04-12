@@ -8,6 +8,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 #
 # See LICENSE for more details.
+# Author Amador Pahim <apahim@redhat.com>
 
 import hashlib
 import itertools
